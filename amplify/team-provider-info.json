@@ -15,5 +15,22 @@
                 "storageapp210395d7": {}
             }
         }
+    },
+    "amplify": {
+        "awscloudformation": {
+            "AuthRoleName": "storage-app-amplify-20190626203635-authRole",
+            "UnauthRoleArn": "arn:aws:iam::560543580864:role/storage-app-amplify-20190626203635-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::560543580864:role/storage-app-amplify-20190626203635-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "storage-app-amplify-20190626203635-deployment",
+            "UnauthRoleName": "storage-app-amplify-20190626203635-unauthRole",
+            "StackName": "storage-app-amplify-20190626203635",
+            "StackId": "arn:aws:cloudformation:eu-west-1:560543580864:stack/storage-app-amplify-20190626203635/172bd6c0-9852-11e9-bf4e-02f49d781af6"
+        },
+        "categories": {
+            "auth": {
+                "storageapp210395d7": {}
+            }
+        }
     }
 }
